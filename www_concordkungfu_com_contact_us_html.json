@@ -1,0 +1,2012 @@
+{
+  "page": {
+    "url": "https://www.concordkungfu.com/contact_us.html",
+    "title": "Concord Kung Fu Academy - Train Harder, Live Better ® - Contact Us",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-08T22:16:46.920Z",
+    "redirect_chain": [],
+    "status_code": null,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery",
+      "Bootstrap"
+    ],
+    "versions": {
+      "jQuery": "1.11.3"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://www.concordkungfu.com/contact_us.html",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778278606937,
+          "endTime": 1778278607138,
+          "duration": 201
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/bootstrap.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607191,
+          "endTime": 1778278607194,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://s3.amazonaws.com/resources.dyna-code.com/formvalidation.io/css/formValidation.min.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607195,
+          "endTime": 1778278607821,
+          "duration": 626
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/style.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607195,
+          "endTime": 1778278607195,
+          "duration": 0
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/dark.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607203,
+          "endTime": 1778278607204,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/font-icons.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607204,
+          "endTime": 1778278607205,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/animate.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607205,
+          "endTime": 1778278607206,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/magnific-popup.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607206,
+          "endTime": 1778278607237,
+          "duration": 31
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/responsive.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607238,
+          "endTime": 1778278607239,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/custom.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607239,
+          "endTime": 1778278607240,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/colors.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607242,
+          "endTime": 1778278607243,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/components/datepicker.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607244,
+          "endTime": 1778278607422,
+          "duration": 178
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/components/timepicker.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607244,
+          "endTime": 1778278607386,
+          "duration": 142
+        }
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-1067756423",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607244,
+          "endTime": 1778278607245,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/images/ckfa-logo.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607245,
+          "endTime": 1778278607246,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/images/ckfa-logo@2x.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607247,
+          "endTime": 1778278607248,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://ironsilkmartialarts.kicksite.net/prospects/widget.js?w=559eec08cc4cff913a7bb02a93dcb8e1a3f4b2b8",
+        "method": "GET",
+        "status": 301,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607248,
+          "endTime": 1778278608073,
+          "duration": 825
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/js/jquery.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607248,
+          "endTime": 1778278607252,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/js/plugins.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607252,
+          "endTime": 1778278607258,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/js/functions.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607260,
+          "endTime": 1778278607262,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607270,
+          "endTime": 1778278607453,
+          "duration": 183
+        }
+      },
+      {
+        "url": "https://s3.amazonaws.com/resources.dyna-code.com/formvalidation.io/js/formValidation.min.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607271,
+          "endTime": 1778278608382,
+          "duration": 1111
+        }
+      },
+      {
+        "url": "https://s3.amazonaws.com/resources.dyna-code.com/formvalidation.io/js/framework/bootstrap.min.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607271,
+          "endTime": 1778278608082,
+          "duration": 811
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/js/components/datepicker.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607271,
+          "endTime": 1778278608083,
+          "duration": 812
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/js/components/timepicker.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607272,
+          "endTime": 1778278608173,
+          "duration": 901
+        }
+      },
+      {
+        "url": "http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic",
+        "method": "GET",
+        "status": 0,
+        "type": "stylesheet",
+        "initiator": "failed: mixed-content",
+        "timing": null
+      },
+      {
+        "url": "https://www.google-analytics.com/analytics.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607850,
+          "endTime": 1778278607854,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/sdk.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607854,
+          "endTime": 1778278607855,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/fonts/font-icons.woff",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607877,
+          "endTime": 1778278607878,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/images/icons/dotted.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607878,
+          "endTime": 1778278608081,
+          "duration": 203
+        }
+      },
+      {
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=78341699&t=pageview&_s=1&dl=https%3A%2F%2Fwww.concordkungfu.com%2Fcontact_us.html&ul=en-us&dt=Concord%20Kung%20Fu%20Academy%20-%20Train%20Harder%2C%20Live%20Better%20%C2%AE%20-%20Contact%20Us&sr=1280x720&vp=1280x720&_u=AACAAEABAAAAACAAI~&jid=&gjid=&cid=1377326651.1778278297&tid=UA-238718-1&_gid=449609179.1778278297&_slc=1&z=786793175",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607893,
+          "endTime": 1778278607972,
+          "duration": 79
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/bundle/sdk.js/",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607894,
+          "endTime": 1778278607895,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-RKKN6EPFSY&cx=c&_slc=1",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278607988,
+          "endTime": 1778278608001,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://ironsilkmartialarts.kicksite.net/404.html",
+        "method": "GET",
+        "status": 0,
+        "type": "script",
+        "initiator": "failed: net::ERR_BLOCKED_BY_ORB",
+        "timing": null
+      },
+      {
+        "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3146.1694142827832!2d-121.96055338496146!3d37.949830079727974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80855fad5dd206cf%3A0x63e4710709572d48!2sConcord+Kung+Fu+Academy!5e0!3m2!1ses!2sus!4v1465070349018",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778278608266,
+          "endTime": 1778278608578,
+          "duration": 312
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/images/icons/widget-link-dark.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278608291,
+          "endTime": 1778278608292,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://www.facebook.com/v2.6/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfb968b74f75cd718b%26domain%3Dwww.concordkungfu.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.concordkungfu.com%252Ffabd87e143a357822%26relation%3Dparent.parent&container_width=555&height=320&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2Ffacebookhttps%3A%2F%2Fwww.facebook.com%2FConcord-Kung-Fu-Academy-197690903534&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width=550",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778278608452,
+          "endTime": 1778278608679,
+          "duration": 227
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/maps-api-v3/embed/js/64/12d/init_embed.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278608601,
+          "endTime": 1778278608920,
+          "duration": 319
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&paint_origin=&libraries=geometry,search&v=weekly&loading=async&language=en_US&callback=onApiLoad",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278608601,
+          "endTime": 1778278608875,
+          "duration": 274
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/geometry.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278608875,
+          "endTime": 1778278609008,
+          "duration": 133
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/search.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278608876,
+          "endTime": 1778278608950,
+          "duration": 74
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/main.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278608876,
+          "endTime": 1778278609109,
+          "duration": 233
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609223,
+          "endTime": 1778278609471,
+          "duration": 248
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/common.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609380,
+          "endTime": 1778278609539,
+          "duration": 159
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/util.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609382,
+          "endTime": 1778278609539,
+          "duration": 157
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/map.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609430,
+          "endTime": 1778278609536,
+          "duration": 106
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/places.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609430,
+          "endTime": 1778278609711,
+          "duration": 281
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i2704718&2i6474167&2e1&3u16&4m2&1u497&2u410&5m6&1e0&5sen-US&6sus&10b1&12b1&14i47083502&8e1&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=89408",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609430,
+          "endTime": 1778278609697,
+          "duration": 267
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/onion.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609430,
+          "endTime": 1778278609715,
+          "duration": 285
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/search_impl.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609470,
+          "endTime": 1778278609714,
+          "duration": 244
+        }
+      },
+      {
+        "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609658,
+          "endTime": 1778278609791,
+          "duration": 133
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/log.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609766,
+          "endTime": 1778278609966,
+          "duration": 200
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609870,
+          "endTime": 1778278610194,
+          "duration": 324
+        }
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609874,
+          "endTime": 1778278610195,
+          "duration": 321
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609989,
+          "endTime": 1778278610325,
+          "duration": 336
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/InitMapsJwt",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278609991,
+          "endTime": 1778278610204,
+          "duration": 213
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetPlaceWidgetMetadata",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610205,
+          "endTime": 1778278610542,
+          "duration": 337
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610210,
+          "endTime": 1778278610433,
+          "duration": 223
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10566!3i25290!4i256!2m3!1e0!2sm!3i778542434!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9260913406965319375!2y7198002379480313160!2s%2Fg%2F1tgvdvzt!4m2!1x379506221!2x3075390156!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=63500",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610375,
+          "endTime": 1778278610716,
+          "duration": 341
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10565!3i25290!4i256!2m3!1e0!2sm!3i778542434!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9260913406965319375!2y7198002379480313160!2s%2Fg%2F1tgvdvzt!4m2!1x379506221!2x3075390156!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=50606",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610377,
+          "endTime": 1778278610715,
+          "duration": 338
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10565!3i25289!4i256!2m3!1e0!2sm!3i778542434!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9260913406965319375!2y7198002379480313160!2s%2Fg%2F1tgvdvzt!4m2!1x379506221!2x3075390156!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=47519",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610378,
+          "endTime": 1778278610664,
+          "duration": 286
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10566!3i25289!4i256!2m3!1e0!2sm!3i778542434!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9260913406965319375!2y7198002379480313160!2s%2Fg%2F1tgvdvzt!4m2!1x379506221!2x3075390156!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=60413",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610378,
+          "endTime": 1778278610715,
+          "duration": 337
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10567!3i25289!4i256!2m3!1e0!2sm!3i778542434!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9260913406965319375!2y7198002379480313160!2s%2Fg%2F1tgvdvzt!4m2!1x379506221!2x3075390156!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=73307",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610428,
+          "endTime": 1778278610717,
+          "duration": 289
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10567!3i25290!4i256!2m3!1e0!2sm!3i778542434!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9260913406965319375!2y7198002379480313160!2s%2Fg%2F1tgvdvzt!4m2!1x379506221!2x3075390156!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=76394",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610429,
+          "endTime": 1778278610719,
+          "duration": 290
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10567!3i25291!4i256!2m3!1e0!2sm!3i778542434!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9260913406965319375!2y7198002379480313160!2s%2Fg%2F1tgvdvzt!4m2!1x379506221!2x3075390156!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=69004",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610429,
+          "endTime": 1778278610768,
+          "duration": 339
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10566!3i25291!4i256!2m3!1e0!2sm!3i778542434!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9260913406965319375!2y7198002379480313160!2s%2Fg%2F1tgvdvzt!4m2!1x379506221!2x3075390156!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=56110",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610432,
+          "endTime": 1778278610765,
+          "duration": 333
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i10565!3i25291!4i256!2m3!1e0!2sm!3i778542434!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9260913406965319375!2y7198002379480313160!2s%2Fg%2F1tgvdvzt!4m2!1x379506221!2x3075390156!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=43216",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610432,
+          "endTime": 1778278610784,
+          "duration": 352
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m4!1m3!1i16!2i10565!3i25289!1m4!1m3!1i16!2i10565!3i25290!1m4!1m3!1i16!2i10565!3i25291!1m4!1m3!1i16!2i10566!3i25289!1m4!1m3!1i16!2i10567!3i25289!1m4!1m3!1i16!2i10566!3i25290!1m4!1m3!1i16!2i10566!3i25291!1m4!1m3!1i16!2i10567!3i25290!1m4!1m3!1i16!2i10567!3i25291!2m3!1e0!2sm!3i778542434!2m3!1e2!2sspotlit!5i1!3m13!2sen-US!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e3!12m2!5b1!6b1!27m15!299174093m14!14m13!1m8!1m2!1y9260913406965319375!2y7198002379480313160!2s%2Fg%2F1tgvdvzt!4m2!1x379506221!2x3075390156!15sgcid%3Amartial_arts_school!2b0!3b0!6b0!8b0&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=90937",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610457,
+          "endTime": 1778278610788,
+          "duration": 331
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/controls.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610568,
+          "endTime": 1778278610659,
+          "duration": 91
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/maps-api-v3/api/js/64/12d/places_impl.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610569,
+          "endTime": 1778278610662,
+          "duration": 93
+        }
+      },
+      {
+        "url": "https://places.googleapis.com/$rpc/google.maps.places.v1.Places/GetPlace",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278610707,
+          "endTime": 1778278611334,
+          "duration": 627
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/googlesanstext/v25/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmhjsw.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278611405,
+          "endTime": 1778278611511,
+          "duration": 106
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/l/font?kit=5aUu9-KzpRiLCAt4Unrc-xIKmCU5mE1kgo3FI_E8lH570oBdIw&skey=b20c8ebc9802c116&v=v25",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278611408,
+          "endTime": 1778278611484,
+          "duration": 76
+        }
+      },
+      {
+        "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278611431,
+          "endTime": 1778278611552,
+          "duration": 121
+        }
+      },
+      {
+        "url": "https://www.google.com/maps/vt?pb=!1m5!1m4!1i13!2i1320!3i3161!4i256!2m1!1e1!3m12!2sen-US!3sUS!5e289!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9mZg!4e0!5m1!1e3!23i47083502&key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&token=66874",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278611450,
+          "endTime": 1778278611536,
+          "duration": 86
+        }
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/googlesanstext/v25/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2jg.ttf",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278611492,
+          "endTime": 1778278611621,
+          "duration": 129
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-RKKN6EPFSY&gtm=45je6562v9135733921za20g&_p=1778278607967&gcd=13l3l3l2l2l1&npa=0&dma_cps=a&dma=1&_eu=ABAIAAQC&are=1&cid=1377326651.1778278297&frm=0&pscdl=noapi&rcb=11&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=0~115938466~115938468~118463261~118719171&dl=https%3A%2F%2Fwww.concordkungfu.com%2Fcontact_us.html&dt=Concord%20Kung%20Fu%20Academy%20-%20Train%20Harder%2C%20Live%20Better%20%C2%AE%20-%20Contact%20Us&sid=1778278299&sct=1&seg=1&_tu=wAQ&en=page_view&_ee=1&tfd=6113",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278613056,
+          "endTime": 1778278613167,
+          "duration": 111
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y3/l/0,cross/B57LQ6dEpt0.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667979,
+          "endTime": 1778278667982,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y2/l/0,cross/Gl806kas_g_.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667979,
+          "endTime": 1778278668001,
+          "duration": 22
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yE/l/0,cross/JnLmCcNV-IY.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667979,
+          "endTime": 1778278668002,
+          "duration": 23
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/Uu-GGVUS6aZ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667979,
+          "endTime": 1778278668147,
+          "duration": 168
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/KI4kVMPB_xX.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667980,
+          "endTime": 1778278668099,
+          "duration": 119
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4i7M54/yi/l/en_US-j/ZSAm2KyddJ2.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667980,
+          "endTime": 1778278668144,
+          "duration": 164
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4issO4/y8/l/en_US-j/BqrUK47pxRc.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667980,
+          "endTime": 1778278668144,
+          "duration": 164
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yy/r/FYabRVBZzIf.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667980,
+          "endTime": 1778278668145,
+          "duration": 165
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/e0qnL2dG90H.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667980,
+          "endTime": 1778278668146,
+          "duration": 166
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4iLl54/yv/l/en_US-j/Le7clBKZcrl.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667980,
+          "endTime": 1778278668165,
+          "duration": 185
+        }
+      },
+      {
+        "url": "https://scontent.xx.fbcdn.net/v/t39.30808-1/273330881_360160869443014_1777294421770473509_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=kmt6xjFeuzkQ7kNvwFhHiUy&_nc_oc=Adr4YegGRw67QrcKQLMeymzKPRxYiJjEBvUXoGPFKbzzTOCg5puZdrfp2gX__-B_6Y0&_nc_zt=24&_nc_ht=scontent.xx&edm=AGwHaCsEAAAA&_nc_gid=ZLQdgEnvL4ym6MsYxtJ47w&oh=00_Af6dIon0yd3S3BJ5EXNWEMtIrnKIjTVn8PMgjrtZuY78Ig&oe=6A042A7F",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278667981,
+          "endTime": 1778278668148,
+          "duration": 167
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/UPw3RAV2r8i.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278668285,
+          "endTime": 1778278668286,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/c_itVLXCmal.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278668345,
+          "endTime": 1778278668371,
+          "duration": 26
+        }
+      },
+      {
+        "url": "https://www.facebook.com/platform/plugin/tab/renderer/?key=timeline&config_json=%7B%22app_id%22%3A%22776730922422337%22%2C%22href%22%3A%22https%3A%2F%2Fwww.facebook.com%2Ffacebookhttps%3A%2F%2Fwww.facebook.com%2FConcord-Kung-Fu-Academy-197690903534%22%2C%22width%22%3A500%2C%22height%22%3A320%2C%22has_cta%22%3Atrue%2C%22has_small_header%22%3Atrue%2C%22has_adapt_container_width%22%3Atrue%2C%22has_cover%22%3Afalse%2C%22has_posts%22%3Afalse%2C%22tabs%22%3A%22timeline%22%2C%22can_personalize%22%3Afalse%2C%22is_xfbml%22%3Atrue%2C%22referer_uri%22%3A%22https%3A%2F%2Fwww.concordkungfu.com%2F--redacted--%2F%22%7D&fb_dtsg_ag&__user=0&__a=1&__req=1&__hs=20581.BP%3Aplugin_default_pkg.2.0...0&dpr=1&__ccg=EXCELLENT&__rev=1039118178&__s=%3A%3A6hthq9&__hsi=7637648465795662283&__dyn=7wKxa13wt8K2Wmh0Sw8W5U4e1Fx-ewpU3WwvE3vx609vCwjE0AC1xwEw7Bx61vw5zw78w5Uw64w8W1uw2oE17U2ZwrU1Xo1UU1JE&locale=en_US&__sp=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278668531,
+          "endTime": 1778278669240,
+          "duration": 709
+        }
+      },
+      {
+        "url": "https://www.facebook.com/platform/plugin/page/logging/",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278668531,
+          "endTime": 1778278668800,
+          "duration": 269
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/89U7jk2uMkx.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278668532,
+          "endTime": 1778278668533,
+          "duration": 1
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y4/l/0,cross/ioXgH1h9j2K.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669406,
+          "endTime": 1778278669467,
+          "duration": 61
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yr/l/0,cross/qIBEXUNFB__.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669407,
+          "endTime": 1778278669482,
+          "duration": 75
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yG/l/0,cross/sYxP1pQ25D3.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669428,
+          "endTime": 1778278669500,
+          "duration": 72
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yD/l/0,cross/LaLoWSYNyJE.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669428,
+          "endTime": 1778278669506,
+          "duration": 78
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yu/l/0,cross/ksEOa9f4b5K.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669428,
+          "endTime": 1778278669508,
+          "duration": 80
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/9nGNukS2rjJ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669428,
+          "endTime": 1778278669561,
+          "duration": 133
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y3/l/0,cross/bsG7NufKlIV.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669429,
+          "endTime": 1778278669514,
+          "duration": 85
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yU/l/0,cross/JzSeS_PJacL.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669429,
+          "endTime": 1778278669515,
+          "duration": 86
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yi/l/0,cross/GiCCyj_7b4T.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669447,
+          "endTime": 1778278669516,
+          "duration": 69
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yx/l/0,cross/wC0A4M-evn4.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669448,
+          "endTime": 1778278669517,
+          "duration": 69
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/UztPi59n9LV.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669455,
+          "endTime": 1778278669642,
+          "duration": 187
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yz/r/CFxJtv53DYU.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669455,
+          "endTime": 1778278669645,
+          "duration": 190
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yw/r/pFvoktha1fr.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669455,
+          "endTime": 1778278669645,
+          "duration": 190
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4iAf64/ya/l/en_US-j/H2K3abxpz1x.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669456,
+          "endTime": 1778278669651,
+          "duration": 195
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4iW4a4/yp/l/en_US-j/4PNasTo37H6.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669456,
+          "endTime": 1778278669740,
+          "duration": 284
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yO/r/W6v5PAXyMfI.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669456,
+          "endTime": 1778278669763,
+          "duration": 307
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4iJQN4/y1/l/en_US-j/R7aiNLhFU0D.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669456,
+          "endTime": 1778278669763,
+          "duration": 307
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yo/r/IrXz731TnYr.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669456,
+          "endTime": 1778278669744,
+          "duration": 288
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4izx64/yw/l/en_US-j/zk6fa4LpBK3.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669456,
+          "endTime": 1778278669765,
+          "duration": 309
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4iQL74/yx/l/en_US-j/RDAXr02r_8I.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669456,
+          "endTime": 1778278669767,
+          "duration": 311
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yK/r/Z1fIcIrrCbA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669456,
+          "endTime": 1778278669773,
+          "duration": 317
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yE/r/SxbwMuW2C9E.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669457,
+          "endTime": 1778278669766,
+          "duration": 309
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yN/r/J7CVez4qIyT.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669457,
+          "endTime": 1778278669766,
+          "duration": 309
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yI/r/OQh2yfO_V6X.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669457,
+          "endTime": 1778278669773,
+          "duration": 316
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yr/r/Be0QbkBTQT-.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669457,
+          "endTime": 1778278669772,
+          "duration": 315
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yi/r/o5Ul6ujjLMZ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669457,
+          "endTime": 1778278669771,
+          "duration": 314
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/y-/r/HjUxEo-py8M.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669457,
+          "endTime": 1778278669795,
+          "duration": 338
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yx/r/v_kkAv_-wGQ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278669457,
+          "endTime": 1778278669774,
+          "duration": 317
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNVlqvi5_a-YYiVf_CS5QkZ124vHEDNdiIHvDrcJduyTrkEuXoUnsm0p7tqv49PqjPl2tEv9M25iU-GgsAdIF1-2exKvbl0yzOFoeY.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=-0A7Iq8cqcoQ7kNvwF8SsC0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NzM4NzQ1NDUzODk5NDQsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzMwMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjEwLCJiaXRyYXRlIjoxMTUwMTAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&_nc_zt=28&oh=00_Af6UQoqJ2CZuwc1OwxYNwUxw8LzipINMMio5dZum-VE9OQ&oe=6A0056D4&bytestart=0&byteend=890",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670208,
+          "endTime": 1778278670210,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNVlqvi5_a-YYiVf_CS5QkZ124vHEDNdiIHvDrcJduyTrkEuXoUnsm0p7tqv49PqjPl2tEv9M25iU-GgsAdIF1-2exKvbl0yzOFoeY.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=-0A7Iq8cqcoQ7kNvwF8SsC0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NzM4NzQ1NDUzODk5NDQsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzMwMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjEwLCJiaXRyYXRlIjoxMTUwMTAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&_nc_zt=28&oh=00_Af6UQoqJ2CZuwc1OwxYNwUxw8LzipINMMio5dZum-VE9OQ&oe=6A0056D4&bytestart=891&byteend=958",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670208,
+          "endTime": 1778278670211,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNVlqvi5_a-YYiVf_CS5QkZ124vHEDNdiIHvDrcJduyTrkEuXoUnsm0p7tqv49PqjPl2tEv9M25iU-GgsAdIF1-2exKvbl0yzOFoeY.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=-0A7Iq8cqcoQ7kNvwF8SsC0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NzM4NzQ1NDUzODk5NDQsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzMwMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjEwLCJiaXRyYXRlIjoxMTUwMTAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&_nc_zt=28&oh=00_Af6UQoqJ2CZuwc1OwxYNwUxw8LzipINMMio5dZum-VE9OQ&oe=6A0056D4&bytestart=959&byteend=722106",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670208,
+          "endTime": 1778278670549,
+          "duration": 341
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQOfN1yjB_RYKDzY8QH-Wi37eBj5qs8FmvnlSxxvaB1sOYf4qSk34n1U5bcWyilrTBMNxVxGJ-QQ4u-6Tx-HcApbJSCCYmPdzdG0NUg.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=3wySrkkNFFoQ7kNvwHSe39F&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NDc4NjU1MjQ2Njg4MzYsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzQ4MTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjExLCJiaXRyYXRlIjoxMjUwMTczLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&_nc_zt=28&oh=00_Af74CmAkoT8HzLe2tmVQcfQ3sJXyjlFhfA6Mj3rGO7lp_Q&oe=6A00487B&bytestart=0&byteend=890",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670208,
+          "endTime": 1778278670555,
+          "duration": 347
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQOfN1yjB_RYKDzY8QH-Wi37eBj5qs8FmvnlSxxvaB1sOYf4qSk34n1U5bcWyilrTBMNxVxGJ-QQ4u-6Tx-HcApbJSCCYmPdzdG0NUg.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=3wySrkkNFFoQ7kNvwHSe39F&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NDc4NjU1MjQ2Njg4MzYsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzQ4MTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjExLCJiaXRyYXRlIjoxMjUwMTczLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&_nc_zt=28&oh=00_Af74CmAkoT8HzLe2tmVQcfQ3sJXyjlFhfA6Mj3rGO7lp_Q&oe=6A00487B&bytestart=891&byteend=958",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670208,
+          "endTime": 1778278670556,
+          "duration": 348
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQOfN1yjB_RYKDzY8QH-Wi37eBj5qs8FmvnlSxxvaB1sOYf4qSk34n1U5bcWyilrTBMNxVxGJ-QQ4u-6Tx-HcApbJSCCYmPdzdG0NUg.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=3wySrkkNFFoQ7kNvwHSe39F&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NDc4NjU1MjQ2Njg4MzYsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzQ4MTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjExLCJiaXRyYXRlIjoxMjUwMTczLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&_nc_zt=28&oh=00_Af74CmAkoT8HzLe2tmVQcfQ3sJXyjlFhfA6Mj3rGO7lp_Q&oe=6A00487B&bytestart=959&byteend=727059",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670209,
+          "endTime": 1778278670556,
+          "duration": 347
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNtSm3itE-ecZb1xEvMLufxXrVjv75rfjK-odlvk319HNJIkLwgXbndxVj2EFglEaFzS35vX2jmDvfGZF6ZHXT8YWlgJ-y8fx77f9w.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=y5ifgAG_BsMQ7kNvwFWc2EF&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5ODQ2NjEyOTc0MDY3NjEsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzIxMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjIzLCJiaXRyYXRlIjoxMjg4MDc0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&_nc_zt=28&oh=00_Af5XWcMl-qD-ieJ5W3O1z4HENUCA_BXh0DUOonRFKEh6Dw&oe=6A00305A&bytestart=0&byteend=890",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670209,
+          "endTime": 1778278670558,
+          "duration": 349
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNtSm3itE-ecZb1xEvMLufxXrVjv75rfjK-odlvk319HNJIkLwgXbndxVj2EFglEaFzS35vX2jmDvfGZF6ZHXT8YWlgJ-y8fx77f9w.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=y5ifgAG_BsMQ7kNvwFWc2EF&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5ODQ2NjEyOTc0MDY3NjEsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzIxMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjIzLCJiaXRyYXRlIjoxMjg4MDc0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&_nc_zt=28&oh=00_Af5XWcMl-qD-ieJ5W3O1z4HENUCA_BXh0DUOonRFKEh6Dw&oe=6A00305A&bytestart=891&byteend=982",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670209,
+          "endTime": 1778278670559,
+          "duration": 350
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNtSm3itE-ecZb1xEvMLufxXrVjv75rfjK-odlvk319HNJIkLwgXbndxVj2EFglEaFzS35vX2jmDvfGZF6ZHXT8YWlgJ-y8fx77f9w.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=y5ifgAG_BsMQ7kNvwFWc2EF&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5ODQ2NjEyOTc0MDY3NjEsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzIxMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjIzLCJiaXRyYXRlIjoxMjg4MDc0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&_nc_zt=28&oh=00_Af5XWcMl-qD-ieJ5W3O1z4HENUCA_BXh0DUOonRFKEh6Dw&oe=6A00305A&bytestart=983&byteend=669241",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670209,
+          "endTime": 1778278670559,
+          "duration": 350
+        }
+      },
+      {
+        "url": "https://scontent.xx.fbcdn.net/hads-ak-prn2/1487645_6012475414660_1439393861_n.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670209,
+          "endTime": 1778278670686,
+          "duration": 477
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/685871829_1587343450058077_6476318489584931069_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=104&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=LA1SEdFg3xkQ7kNvwFz88q9&_nc_oc=AdrPIlOOnOPrhBRdQ2kyroMF3tISOTTnK7f3RND4WIMHgDlBv2pkbXYwCzJIwDhVPk6ti7k9wum2fsqJPWoPyAGa&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af5NBKFzpRe6dGxR4q_I4bwDQ5A9GprQHD5mjW96tZbaFA&oe=6A0418DB",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670227,
+          "endTime": 1778278670236,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-1/273330881_360160869443014_1777294421770473509_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=kmt6xjFeuzkQ7kNvwFo3Fv2&_nc_oc=AdrjWP7nyBVIqbeCImO0zlcci_6HU_fhvDEXIBbE9Z2U-cYKZpvt1pEVepGCz0LcKIDZcoo8P95k4Y_Lkb0PWWyJ&_nc_zt=24&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af6KnTviVS96hZQyqAXtBnQKolBKFy3ntCD0gJN8Kv07Fg&oe=6A042A7F",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670227,
+          "endTime": 1778278670237,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685008453_18546268162066063_5554962248997657505_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=T6HneJWcp1YQ7kNvwE9hEV5&_nc_oc=AdrzqBjdIGVc4KaU8avtx0KkLO5bOSJVuyKOSQ5OiAGONp_vp3cCk6rkP0icuXH3uQgjzRk-_Ec-oJYqQ3MJhrob&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af4We2q1QDL23TZZ68H7LfRLOud0RkmerQ0i8W78CiO6cQ&oe=6A041C35",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670227,
+          "endTime": 1778278670505,
+          "duration": 278
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/-PAXP-deijE.gif",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670228,
+          "endTime": 1778278670506,
+          "duration": 278
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685773573_18546268150066063_5095104714820051790_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hJ8o-5DZCKMQ7kNvwFUg1PU&_nc_oc=Adp0x5LEmxmeSBnovWcAVQFJcDEwGgXymurro3-1z0JATywAGEEOuWbrNcKc-79sWXQzTHeS7RDmhU7gzOTPZv32&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af5L7JJD7-J9dxKv_1wvEfO08KN9fLEZ4wTiZ75vmOUzVQ&oe=6A04494F",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670228,
+          "endTime": 1778278670507,
+          "duration": 279
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685786171_18546268141066063_5492262683973312785_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=EOlka5nlXxgQ7kNvwHcUrLa&_nc_oc=Adr8pxUXfRasDCEVMf4aVHcnKmTRlei-8Hul7MPYZ4xv6d4nYJOG3p7Z3eao-ADOBqwxVTHQmFK4I2LB_kq9xfoF&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af7C0njVU0K6BwBa4UwqyHh7LTDhzQR8ePQxUYm0P_K-aQ&oe=6A0422FF",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670228,
+          "endTime": 1778278670507,
+          "duration": 279
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-15/657604477_18546268030066063_6748237945484553898_n.jpg?stp=dst-jpegr_p160x160_tt6&_nc_cat=102&ccb=1-7&_nc_sid=e289f2&_nc_ohc=Ds5yptrOqEYQ7kNvwEbZhvk&_nc_oc=AdpTKmpiH6n7yp9lEoRra2smFh3L38H-sepnuHyfT1gFKBQ0ZWmtBa0YBBiEaSehxvMa_MbVGC1QTfrrqFQIcabA&_nc_zt=23&se=-1&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af4fm3UzhR4ZW9kNXnvqPonbOofqxWHAxqurCYiaplljOQ&oe=6A0432FD",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670229,
+          "endTime": 1778278670508,
+          "duration": 279
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/684602017_1583583953767360_1541996652093073702_n.jpg?stp=cp6_dst-jpg_s370x247_tt6&_nc_cat=103&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=LksfWMwIXM4Q7kNvwEtqSbJ&_nc_oc=AdpFJwpfKn4ZpINS9O4QbpwCNXHkj1wZv8q5MmRaUxADVt53Ej3eRGIv1W7gwdmSSNw1Eew6q2EspdIjQb4oSSQI&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af43RfmYj9kjCizPn6K2rXxtVRDGJ4QfUSsoDu_qQAdMOQ&oe=6A041EC3",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670232,
+          "endTime": 1778278670509,
+          "duration": 277
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/682660545_1583583957100693_8419660592569086630_n.jpg?stp=cp6_dst-jpg_s370x247_tt6&_nc_cat=110&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=xyFOyZGcIYUQ7kNvwHtMLjr&_nc_oc=AdrlSKY_faWubfRJpUgaxIsMAggEn3OnXoZ4y1SR01DGeHy0ti3uVadjbluFyurAc-wZNL8_2TcL63DhlSQgeWHo&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af4TgCBXImb0m3cZ5srX7uR0wsr0Ywx7pDtyvLuI_MK_Qg&oe=6A043A88",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670232,
+          "endTime": 1778278670511,
+          "duration": 279
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/681021036_1581761910616231_8677999866140847244_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=j-hGuDz5q5wQ7kNvwEtWGTa&_nc_oc=Adqd754e7IQdJHhSeKKCuR8RMtVbdDi5xtrAaUBlQ210RZQlvLB-NpGp9GEEcikNZ7bD8CteBnJ3FdNbCHCUTB6q&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af5-dS6aMJrJ5itPJPpcr7nT-cStNpEOFPICtYKtnamf0A&oe=6A042FFA",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670232,
+          "endTime": 1778278670512,
+          "duration": 280
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/679287741_1581761930616229_6833524996898571628_n.jpg?stp=cp6_dst-jpg_s370x247_tt6&_nc_cat=106&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=ZdhBXba9VEUQ7kNvwGOxO6i&_nc_oc=Adp2kRDjOhvS2rXrteZqT9Ize6SqUDijvgcHfBKr4G2PIPDO7Uws4oqv37DdYjHuFVSevPem4DXrSVdSsvjRt4RC&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af60Gksg97yupYpDFbn4wX6rVH1tlawA1HFEEh3zWzGxqA&oe=6A044B67",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670232,
+          "endTime": 1778278670512,
+          "duration": 280
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/683264012_1581761967282892_3490301970081891127_n.jpg?stp=cp6_dst-jpg_s370x247_tt6&_nc_cat=107&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=AkuT4qfxmUQQ7kNvwHsUQZM&_nc_oc=AdrJl2O7RBcjWJdy59sPS-lUC9gDBAGHmjeO9KoEToKfZyNTQQSL2CXGV-IgbwWgJjHXuNTch-t6vONdqwbpJXUr&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af6PVjLNLuUhkskUxVc8_6QvfG7z2yF2KD1lKrtKjDXSHQ&oe=6A043CCC",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670232,
+          "endTime": 1778278670513,
+          "duration": 281
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/684122641_1581723890620033_1032902665546835312_n.jpg?stp=cp6_dst-jpg_s370x247_tt6&_nc_cat=103&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=SUfoJ7pohdAQ7kNvwGcgKvp&_nc_oc=AdqNjBgqTuGokbfFpgSQwpGpuVrKcAu4zrETkP-Q3tyVwc5owkD4TShstF9FYIIF7I825sDedaaX_jPb6dF-9zLj&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af6yiEZadsoNuMkR3r0HdjvnQ_b9mXhqK7iWYa3sbgH9sQ&oe=6A0420B1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670233,
+          "endTime": 1778278670514,
+          "duration": 281
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/680833580_1581723937286695_2901428255473485866_n.jpg?stp=cp6_dst-jpg_s320x320_tt6&_nc_cat=102&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=4Mr_ykJtvJEQ7kNvwFdeUUU&_nc_oc=AdoMb2HtP-PyclPcNrR_OpNF_JZrQqw1uchZ4hHLAD32b3LzK1ELgbrp0aleTcwXR8071e9A6bL8Nq1GHjH8__Xe&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af7wbrnLm7xDg3t4tzrh8mBrjcygjzljtVz0BgsntO8eOQ&oe=6A04191D",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670233,
+          "endTime": 1778278670561,
+          "duration": 328
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/683775969_1581723983953357_198284801011832592_n.jpg?stp=cp6_dst-jpg_s240x240_tt6&_nc_cat=109&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=4y1oLTTyUUQQ7kNvwFiZaAM&_nc_oc=AdpPHF1S3kcrLRvIERa6pN0ycSlBv4YrkxFGP7sMSRbJtb3eNdyxyhkjEW67vyAEoejrKFBx0hgmpi3Sr_Oo9ttC&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af4rczSg2LjTyTGW062V9ZCAXd_vSEXbIBNYTl2FBvrpWQ&oe=6A042844",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670233,
+          "endTime": 1778278670562,
+          "duration": 329
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/682006765_1581723940620028_6058750341897946866_n.jpg?stp=cp6_dst-jpg_s240x240_tt6&_nc_cat=105&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=lmmJxSfzIDkQ7kNvwFy70aQ&_nc_oc=AdqJRJ1Wnq9HPd_KxQHdKT0zxt4NgJhDbCVgRVtusCJzyaG-hSd-W_rP8_UHSevGMYI4fNvX1or6gbdp8zfBvHkp&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af5nUB3mgGetteAZZ_0GQZxNnnPXIkdMEzC5nJiEVM9NTQ&oe=6A043C6B",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670233,
+          "endTime": 1778278670563,
+          "duration": 330
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/682462250_1581724043953351_1527558273366097662_n.jpg?stp=cp6_dst-jpg_s240x240_tt6&_nc_cat=103&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=Y7ddl6PZAeoQ7kNvwGTwwPB&_nc_oc=AdqT_FjG05DuA2czJkiT6fMpEifEhO9JiLBHnlLw8-BJYFVmajHB9BXHujgS1RjCh-vI0SU3W7XTW2Q5B8g8cXgg&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af6Hm9FvKY7ugk7XztTUpFH1FvkSRDXkGCOyESni6xETBg&oe=6A041F57",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670233,
+          "endTime": 1778278670580,
+          "duration": 347
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/y-/r/Mgn3V2NlmjU.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670503,
+          "endTime": 1778278670582,
+          "duration": 79
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685008453_18546268162066063_5554962248997657505_n.jpg?stp=dst-jpg_p350x350_tt6&_nc_cat=102&ccb=1-7&_nc_sid=b696e2&_nc_ohc=T6HneJWcp1YQ7kNvwE9hEV5&_nc_oc=AdrzqBjdIGVc4KaU8avtx0KkLO5bOSJVuyKOSQ5OiAGONp_vp3cCk6rkP0icuXH3uQgjzRk-_Ec-oJYqQ3MJhrob&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af6IpPq8B9-epFITUA3TkIR_ch6N2lcDy7rxV5KRvIbRWQ&oe=6A041C35",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670504,
+          "endTime": 1778278670599,
+          "duration": 95
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/j5wMiSKUScF.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670504,
+          "endTime": 1778278670600,
+          "duration": 96
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685773573_18546268150066063_5095104714820051790_n.jpg?stp=dst-jpg_p160x160_tt6&_nc_cat=106&ccb=1-7&_nc_sid=b696e2&_nc_ohc=hJ8o-5DZCKMQ7kNvwFUg1PU&_nc_oc=Adp0x5LEmxmeSBnovWcAVQFJcDEwGgXymurro3-1z0JATywAGEEOuWbrNcKc-79sWXQzTHeS7RDmhU7gzOTPZv32&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af5uoOqfNNEfMtjWwCeH_ji2HE9pA8Pg8OWRLRr76b65lg&oe=6A04494F",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670504,
+          "endTime": 1778278670601,
+          "duration": 97
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685786171_18546268141066063_5492262683973312785_n.jpg?stp=dst-jpg_p160x160_tt6&_nc_cat=108&ccb=1-7&_nc_sid=b696e2&_nc_ohc=EOlka5nlXxgQ7kNvwHcUrLa&_nc_oc=Adr8pxUXfRasDCEVMf4aVHcnKmTRlei-8Hul7MPYZ4xv6d4nYJOG3p7Z3eao-ADOBqwxVTHQmFK4I2LB_kq9xfoF&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=fPKuls2pbuWAu7PfN8sHLw&_nc_ss=7b289&oh=00_Af7zSSZW8fEv6HU9BSbnjKVY4PfqW4A6z9eoFghC2Yzaew&oe=6A0422FF",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670504,
+          "endTime": 1778278670610,
+          "duration": 106
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yK/r/4OiFAeQ6JbP.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278670505,
+          "endTime": 1778278670616,
+          "duration": 111
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.concordkungfu.com",
+      "s3.amazonaws.com",
+      "www.googletagmanager.com",
+      "ironsilkmartialarts.kicksite.net",
+      "cdnjs.cloudflare.com",
+      "fonts.googleapis.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "www.google.com",
+      "www.facebook.com",
+      "maps.gstatic.com",
+      "maps.googleapis.com",
+      "fonts.gstatic.com",
+      "places.googleapis.com",
+      "region1.google-analytics.com",
+      "static.xx.fbcdn.net",
+      "scontent.xx.fbcdn.net",
+      "video-vie1-1.xx.fbcdn.net",
+      "scontent-vie1-1.xx.fbcdn.net"
+    ],
+    "aggregates": {
+      "total_requests": 154,
+      "by_type": {
+        "document": 3,
+        "stylesheet": 27,
+        "script": 56,
+        "image": 43,
+        "font": 5,
+        "xhr": 10,
+        "fetch": 10
+      },
+      "failed": 2,
+      "avg_response_time": 210.48701298701297
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 208,
+    "max_depth": 12,
+    "script_counts": {
+      "inline": 6,
+      "external": 14,
+      "async": 4,
+      "defer": 0,
+      "blocking": 10
+    },
+    "blocking_resources": [
+      "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6",
+      "https://ironsilkmartialarts.kicksite.net/prospects/widget.js?w=559eec08cc4cff913a7bb02a93dcb8e1a3f4b2b8",
+      "https://www.concordkungfu.com/js/jquery.js",
+      "https://www.concordkungfu.com/js/plugins.js",
+      "https://www.concordkungfu.com/js/functions.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js",
+      "https://s3.amazonaws.com/resources.dyna-code.com/formvalidation.io/js/formValidation.min.js",
+      "https://s3.amazonaws.com/resources.dyna-code.com/formvalidation.io/js/framework/bootstrap.min.js",
+      "https://www.concordkungfu.com/js/components/datepicker.js",
+      "https://www.concordkungfu.com/js/components/timepicker.js",
+      "http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic",
+      "https://www.concordkungfu.com/css/bootstrap.css",
+      "https://s3.amazonaws.com/resources.dyna-code.com/formvalidation.io/css/formValidation.min.css",
+      "https://www.concordkungfu.com/css/style.css",
+      "https://www.concordkungfu.com/css/dark.css",
+      "https://www.concordkungfu.com/css/font-icons.css",
+      "https://www.concordkungfu.com/css/animate.css",
+      "https://www.concordkungfu.com/css/magnific-popup.css",
+      "https://www.concordkungfu.com/css/responsive.css",
+      "https://www.concordkungfu.com/css/custom.css",
+      "https://www.concordkungfu.com/css/colors.css",
+      "https://www.concordkungfu.com/css/components/datepicker.css",
+      "https://www.concordkungfu.com/css/components/timepicker.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Home Academy Classes Programs Schedule Contact Us News & Events Start Your Kung Fu Journey About Us \"Train Harder, Live Better!\"® We teach Choy Li Fut Kung Fu and\n                                Yang Tai Chi Chuan. Concord Kung Fu Academy 5442 Ygnacio Valley Road Suite 90 Concord, CA 94521 Phone: (925) 304-6688 Email: Contact Us Here Sitemap Academy Classes Programs Schedule Contact Us News & Events ©2026 Iron & Silk, Inc. Terms of Use / Privacy\n                        Policy Webmaster@Concordkungfu.com · (925) 304-6688",
+    "headings": [
+      {
+        "level": "h2",
+        "text": "Start Your Kung Fu Journey"
+      },
+      {
+        "level": "h4",
+        "text": "About Us"
+      },
+      {
+        "level": "h4",
+        "text": "Sitemap"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Leopards: Beginner 7-12 years\n                                    old",
+        "type": "link",
+        "href": "https://www.concordkungfu.com/classes.html#leopards-beginner-7-12-yrs"
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://www.concordkungfu.com/schedule.html"
+      },
+      {
+        "text": "Contact Us",
+        "type": "link",
+        "href": "https://www.concordkungfu.com/contact_us.html"
+      },
+      {
+        "text": "Contact Us Here",
+        "type": "link",
+        "href": "https://www.concordkungfu.com/contact_us.html"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "contact",
+        "about",
+        "schedule"
+      ]
+    },
+    "hierarchy_summary": "  h2: Start Your Kung Fu Journey\n      h4: About Us\n      h4: Sitemap"
+  },
+  "images": [
+    {
+      "src": "https://www.concordkungfu.com/images/ckfa-logo.png",
+      "page_url": "https://www.concordkungfu.com/contact_us.html",
+      "alt": "Home",
+      "surrounding_text": "Home",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://www.concordkungfu.com/images/ckfa-logo@2x.png",
+      "page_url": "https://www.concordkungfu.com/contact_us.html",
+      "alt": "Home",
+      "surrounding_text": "Home",
+      "inferred_purpose": "logo"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Google Tag Manager",
+      "Google Analytics",
+      "Meta Pixel"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}

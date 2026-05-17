@@ -1,0 +1,11 @@
+{
+  "name": "concordkungfu-com",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static rebuild of Concord Kung Fu Academy from captured JSON page data.",
+  "scripts": {
+    "build": "node src/build-site.js",
+    "dev": "node src/dev-server.js",
+    "verify": "node src/verify-site.js"
+  }
+}

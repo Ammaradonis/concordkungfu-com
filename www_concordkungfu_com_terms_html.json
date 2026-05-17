@@ -1,0 +1,1383 @@
+{
+  "page": {
+    "url": "https://www.concordkungfu.com/terms.html",
+    "title": "Concord Kung Fu Academy - Train Harder, Live Better ® - Terms of Use",
+    "meta_description": "",
+    "canonical": "",
+    "crawl_timestamp": "2026-05-08T22:21:10.261Z",
+    "redirect_chain": [],
+    "status_code": 200,
+    "content_type": "text/html"
+  },
+  "frameworks": {
+    "detected": [
+      "jQuery",
+      "Bootstrap"
+    ],
+    "versions": {
+      "jQuery": "1.11.3"
+    }
+  },
+  "network": {
+    "requests": [
+      {
+        "url": "https://www.concordkungfu.com/terms.html",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778278870281,
+          "endTime": 1778278870611,
+          "duration": 330
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/bootstrap.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870646,
+          "endTime": 1778278870661,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/style.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870662,
+          "endTime": 1778278870744,
+          "duration": 82
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/dark.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870746,
+          "endTime": 1778278870753,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/font-icons.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870753,
+          "endTime": 1778278870765,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/animate.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870766,
+          "endTime": 1778278870778,
+          "duration": 12
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/magnific-popup.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870788,
+          "endTime": 1778278870797,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/responsive.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870798,
+          "endTime": 1778278870815,
+          "duration": 17
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/custom.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870816,
+          "endTime": 1778278870822,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/colors.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870824,
+          "endTime": 1778278870838,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-1067756423",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870843,
+          "endTime": 1778278870846,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/images/ckfa-logo.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870851,
+          "endTime": 1778278870857,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/images/ckfa-logo@2x.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870858,
+          "endTime": 1778278870863,
+          "duration": 5
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/js/jquery.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870864,
+          "endTime": 1778278870871,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/js/plugins.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870878,
+          "endTime": 1778278870889,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/js/functions.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870889,
+          "endTime": 1778278870905,
+          "duration": 16
+        }
+      },
+      {
+        "url": "http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic",
+        "method": "GET",
+        "status": 0,
+        "type": "stylesheet",
+        "initiator": "failed: mixed-content",
+        "timing": null
+      },
+      {
+        "url": "https://www.google-analytics.com/analytics.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870914,
+          "endTime": 1778278870917,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/sdk.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870927,
+          "endTime": 1778278870938,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/css/fonts/font-icons.woff",
+        "method": "GET",
+        "status": 200,
+        "type": "font",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870939,
+          "endTime": 1778278870949,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://www.concordkungfu.com/images/icons/widget-link-dark.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870949,
+          "endTime": 1778278870951,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1873000914&t=pageview&_s=1&dl=https%3A%2F%2Fwww.concordkungfu.com%2Fterms.html&ul=en-us&dt=Concord%20Kung%20Fu%20Academy%20-%20Train%20Harder%2C%20Live%20Better%20%C2%AE%20-%20Terms%20of%20Use&sr=1280x720&vp=1280x720&_u=AACAAEABAAAAACAAI~&jid=&gjid=&cid=1377326651.1778278297&tid=UA-238718-1&_gid=449609179.1778278297&_slc=1&z=1722693031",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870976,
+          "endTime": 1778278870994,
+          "duration": 18
+        }
+      },
+      {
+        "url": "https://connect.facebook.net/en_US/bundle/sdk.js/",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870977,
+          "endTime": 1778278870981,
+          "duration": 4
+        }
+      },
+      {
+        "url": "https://www.facebook.com/v2.6/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfee67f7b8255da6d8%26domain%3Dwww.concordkungfu.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.concordkungfu.com%252Ff7adb30bf9ae0ae85%26relation%3Dparent.parent&container_width=555&height=320&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2Ffacebookhttps%3A%2F%2Fwww.facebook.com%2FConcord-Kung-Fu-Academy-197690903534&locale=en_US&sdk=joey&show_facepile=true&small_header=true&tabs=timeline&width=550",
+        "method": "GET",
+        "status": 200,
+        "type": "document",
+        "initiator": "navigation",
+        "timing": {
+          "startTime": 1778278870981,
+          "endTime": 1778278871200,
+          "duration": 219
+        }
+      },
+      {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-RKKN6EPFSY&cx=c&_slc=1",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278870994,
+          "endTime": 1778278871000,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y3/l/0,cross/B57LQ6dEpt0.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871240,
+          "endTime": 1778278871303,
+          "duration": 63
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y2/l/0,cross/Gl806kas_g_.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871304,
+          "endTime": 1778278871315,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yE/l/0,cross/JnLmCcNV-IY.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871316,
+          "endTime": 1778278871326,
+          "duration": 10
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/Uu-GGVUS6aZ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871327,
+          "endTime": 1778278871333,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yL/r/KI4kVMPB_xX.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871334,
+          "endTime": 1778278871353,
+          "duration": 19
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4i7M54/yi/l/en_US-j/ZSAm2KyddJ2.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871354,
+          "endTime": 1778278871363,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4issO4/y8/l/en_US-j/BqrUK47pxRc.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871370,
+          "endTime": 1778278871372,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yy/r/FYabRVBZzIf.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871376,
+          "endTime": 1778278871378,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/e0qnL2dG90H.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871380,
+          "endTime": 1778278871386,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4iLl54/yv/l/en_US-j/Le7clBKZcrl.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871387,
+          "endTime": 1778278871394,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://scontent.xx.fbcdn.net/v/t39.30808-1/273330881_360160869443014_1777294421770473509_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=kmt6xjFeuzkQ7kNvwFhHiUy&_nc_oc=Adr4YegGRw67QrcKQLMeymzKPRxYiJjEBvUXoGPFKbzzTOCg5puZdrfp2gX__-B_6Y0&_nc_zt=24&_nc_ht=scontent.xx&edm=AGwHaCsEAAAA&_nc_gid=1YRA2PvGHjOU9OygF63Z8A&oh=00_Af4uiKSzHPmh-x4X4-ke5WgHFJrSPezK1h37N_1GyQ3V7Q&oe=6A042A7F",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871395,
+          "endTime": 1778278871430,
+          "duration": 35
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yt/r/UPw3RAV2r8i.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871435,
+          "endTime": 1778278871442,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/c_itVLXCmal.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871442,
+          "endTime": 1778278871448,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://www.facebook.com/platform/plugin/tab/renderer/?key=timeline&config_json=%7B%22app_id%22%3A%22776730922422337%22%2C%22href%22%3A%22https%3A%2F%2Fwww.facebook.com%2Ffacebookhttps%3A%2F%2Fwww.facebook.com%2FConcord-Kung-Fu-Academy-197690903534%22%2C%22width%22%3A500%2C%22height%22%3A320%2C%22has_cta%22%3Atrue%2C%22has_small_header%22%3Atrue%2C%22has_adapt_container_width%22%3Atrue%2C%22has_cover%22%3Afalse%2C%22has_posts%22%3Afalse%2C%22tabs%22%3A%22timeline%22%2C%22can_personalize%22%3Afalse%2C%22is_xfbml%22%3Atrue%2C%22referer_uri%22%3A%22https%3A%2F%2Fwww.concordkungfu.com%2F--redacted--%2F%22%7D&fb_dtsg_ag&__user=0&__a=1&__req=1&__hs=20581.BP%3Aplugin_default_pkg.2.0...0&dpr=1&__ccg=GOOD&__rev=1039118178&__s=%3A%3Ac4zrda&__hsi=7637649595296185525&__dyn=7wKxa13wt8K2Wmh0Sw8W5U4e1Fx-ewpU3WwvE3vx609vCwjE0AC1xwEw7Bx61vw5zw78w5Uw64w8W1uw2oE17U2ZwrU1Xo1UU1JE&locale=en_US&__sp=1",
+        "method": "GET",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871454,
+          "endTime": 1778278871937,
+          "duration": 483
+        }
+      },
+      {
+        "url": "https://www.facebook.com/platform/plugin/page/logging/",
+        "method": "POST",
+        "status": 200,
+        "type": "xhr",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871454,
+          "endTime": 1778278871581,
+          "duration": 127
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/89U7jk2uMkx.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278871454,
+          "endTime": 1778278871461,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y4/l/0,cross/ioXgH1h9j2K.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872134,
+          "endTime": 1778278872150,
+          "duration": 16
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yr/l/0,cross/qIBEXUNFB__.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872369,
+          "endTime": 1778278872383,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yG/l/0,cross/sYxP1pQ25D3.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872392,
+          "endTime": 1778278872408,
+          "duration": 16
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yD/l/0,cross/LaLoWSYNyJE.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872409,
+          "endTime": 1778278872416,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yu/l/0,cross/ksEOa9f4b5K.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872416,
+          "endTime": 1778278872431,
+          "duration": 15
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yc/r/9nGNukS2rjJ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872432,
+          "endTime": 1778278872454,
+          "duration": 22
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/y3/l/0,cross/bsG7NufKlIV.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872455,
+          "endTime": 1778278872478,
+          "duration": 23
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yU/l/0,cross/JzSeS_PJacL.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872479,
+          "endTime": 1778278872492,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yi/l/0,cross/GiCCyj_7b4T.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872493,
+          "endTime": 1778278872501,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yx/l/0,cross/wC0A4M-evn4.css",
+        "method": "GET",
+        "status": 200,
+        "type": "stylesheet",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872501,
+          "endTime": 1778278872515,
+          "duration": 14
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yf/r/UztPi59n9LV.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872516,
+          "endTime": 1778278872537,
+          "duration": 21
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yz/r/CFxJtv53DYU.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872538,
+          "endTime": 1778278872551,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yw/r/pFvoktha1fr.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872551,
+          "endTime": 1778278872560,
+          "duration": 9
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4iAf64/ya/l/en_US-j/H2K3abxpz1x.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872561,
+          "endTime": 1778278872603,
+          "duration": 42
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4iW4a4/yp/l/en_US-j/4PNasTo37H6.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872603,
+          "endTime": 1778278872610,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yO/r/W6v5PAXyMfI.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872610,
+          "endTime": 1778278872621,
+          "duration": 11
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4iJQN4/y1/l/en_US-j/R7aiNLhFU0D.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872634,
+          "endTime": 1778278872636,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yo/r/IrXz731TnYr.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872644,
+          "endTime": 1778278872652,
+          "duration": 8
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4izx64/yw/l/en_US-j/zk6fa4LpBK3.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872652,
+          "endTime": 1778278872659,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4iQL74/yx/l/en_US-j/RDAXr02r_8I.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872665,
+          "endTime": 1778278872667,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yK/r/Z1fIcIrrCbA.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872672,
+          "endTime": 1778278872675,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yE/r/SxbwMuW2C9E.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872681,
+          "endTime": 1778278872687,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yN/r/J7CVez4qIyT.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872687,
+          "endTime": 1778278872689,
+          "duration": 2
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yI/r/OQh2yfO_V6X.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872693,
+          "endTime": 1778278872699,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yr/r/Be0QbkBTQT-.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872699,
+          "endTime": 1778278872705,
+          "duration": 6
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yi/r/o5Ul6ujjLMZ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872711,
+          "endTime": 1778278872718,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/y-/r/HjUxEo-py8M.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872719,
+          "endTime": 1778278872732,
+          "duration": 13
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yx/r/v_kkAv_-wGQ.js",
+        "method": "GET",
+        "status": 200,
+        "type": "script",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872732,
+          "endTime": 1778278872739,
+          "duration": 7
+        }
+      },
+      {
+        "url": "https://scontent.xx.fbcdn.net/hads-ak-prn2/1487645_6012475414660_1439393861_n.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872901,
+          "endTime": 1778278872981,
+          "duration": 80
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQOfN1yjB_RYKDzY8QH-Wi37eBj5qs8FmvnlSxxvaB1sOYf4qSk34n1U5bcWyilrTBMNxVxGJ-QQ4u-6Tx-HcApbJSCCYmPdzdG0NUg.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=3wySrkkNFFoQ7kNvwHSe39F&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NDc4NjU1MjQ2Njg4MzYsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzQ4MTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjExLCJiaXRyYXRlIjoxMjUwMTczLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&_nc_zt=28&oh=00_Af6hSMzpAJHN7vlEnUgvBqbHoG40LiKqV_AIwFe3U1Qfqw&oe=6A00487B&bytestart=0&byteend=890",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872901,
+          "endTime": 1778278873121,
+          "duration": 220
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQOfN1yjB_RYKDzY8QH-Wi37eBj5qs8FmvnlSxxvaB1sOYf4qSk34n1U5bcWyilrTBMNxVxGJ-QQ4u-6Tx-HcApbJSCCYmPdzdG0NUg.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=3wySrkkNFFoQ7kNvwHSe39F&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NDc4NjU1MjQ2Njg4MzYsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzQ4MTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjExLCJiaXRyYXRlIjoxMjUwMTczLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&_nc_zt=28&oh=00_Af6hSMzpAJHN7vlEnUgvBqbHoG40LiKqV_AIwFe3U1Qfqw&oe=6A00487B&bytestart=891&byteend=958",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872901,
+          "endTime": 1778278873127,
+          "duration": 226
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQOfN1yjB_RYKDzY8QH-Wi37eBj5qs8FmvnlSxxvaB1sOYf4qSk34n1U5bcWyilrTBMNxVxGJ-QQ4u-6Tx-HcApbJSCCYmPdzdG0NUg.mp4?_nc_cat=110&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=3wySrkkNFFoQ7kNvwHSe39F&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NDc4NjU1MjQ2Njg4MzYsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzQ4MTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjExLCJiaXRyYXRlIjoxMjUwMTczLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&_nc_zt=28&oh=00_Af6hSMzpAJHN7vlEnUgvBqbHoG40LiKqV_AIwFe3U1Qfqw&oe=6A00487B&bytestart=959&byteend=727059",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872902,
+          "endTime": 1778278873136,
+          "duration": 234
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNVlqvi5_a-YYiVf_CS5QkZ124vHEDNdiIHvDrcJduyTrkEuXoUnsm0p7tqv49PqjPl2tEv9M25iU-GgsAdIF1-2exKvbl0yzOFoeY.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=-0A7Iq8cqcoQ7kNvwF8SsC0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NzM4NzQ1NDUzODk5NDQsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzMwMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjEwLCJiaXRyYXRlIjoxMTUwMTAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&_nc_zt=28&oh=00_Af4WE4HiUSGq9JayMopVJpGd8HfdKsEgtS621xYXVa8Jqw&oe=6A0056D4&bytestart=0&byteend=890",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872902,
+          "endTime": 1778278873150,
+          "duration": 248
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNVlqvi5_a-YYiVf_CS5QkZ124vHEDNdiIHvDrcJduyTrkEuXoUnsm0p7tqv49PqjPl2tEv9M25iU-GgsAdIF1-2exKvbl0yzOFoeY.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=-0A7Iq8cqcoQ7kNvwF8SsC0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NzM4NzQ1NDUzODk5NDQsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzMwMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjEwLCJiaXRyYXRlIjoxMTUwMTAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&_nc_zt=28&oh=00_Af4WE4HiUSGq9JayMopVJpGd8HfdKsEgtS621xYXVa8Jqw&oe=6A0056D4&bytestart=891&byteend=958",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872902,
+          "endTime": 1778278873154,
+          "duration": 252
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNVlqvi5_a-YYiVf_CS5QkZ124vHEDNdiIHvDrcJduyTrkEuXoUnsm0p7tqv49PqjPl2tEv9M25iU-GgsAdIF1-2exKvbl0yzOFoeY.mp4?_nc_cat=107&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=-0A7Iq8cqcoQ7kNvwF8SsC0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5NzM4NzQ1NDUzODk5NDQsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzMwMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjEwLCJiaXRyYXRlIjoxMTUwMTAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&_nc_zt=28&oh=00_Af4WE4HiUSGq9JayMopVJpGd8HfdKsEgtS621xYXVa8Jqw&oe=6A0056D4&bytestart=959&byteend=722106",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872902,
+          "endTime": 1778278873166,
+          "duration": 264
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNtSm3itE-ecZb1xEvMLufxXrVjv75rfjK-odlvk319HNJIkLwgXbndxVj2EFglEaFzS35vX2jmDvfGZF6ZHXT8YWlgJ-y8fx77f9w.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=y5ifgAG_BsMQ7kNvwFWc2EF&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5ODQ2NjEyOTc0MDY3NjEsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzIxMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjIzLCJiaXRyYXRlIjoxMjg4MDc0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&_nc_zt=28&oh=00_Af5Wl8k5h4I65CE10ilZAaLiJN034JegamVSgUDYQ3iSww&oe=6A00305A&bytestart=0&byteend=890",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872902,
+          "endTime": 1778278873175,
+          "duration": 273
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNtSm3itE-ecZb1xEvMLufxXrVjv75rfjK-odlvk319HNJIkLwgXbndxVj2EFglEaFzS35vX2jmDvfGZF6ZHXT8YWlgJ-y8fx77f9w.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=y5ifgAG_BsMQ7kNvwFWc2EF&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5ODQ2NjEyOTc0MDY3NjEsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzIxMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjIzLCJiaXRyYXRlIjoxMjg4MDc0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&_nc_zt=28&oh=00_Af5Wl8k5h4I65CE10ilZAaLiJN034JegamVSgUDYQ3iSww&oe=6A00305A&bytestart=891&byteend=982",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872903,
+          "endTime": 1778278873192,
+          "duration": 289
+        }
+      },
+      {
+        "url": "https://video-vie1-1.xx.fbcdn.net/o1/v/t2/f2/m84/AQNtSm3itE-ecZb1xEvMLufxXrVjv75rfjK-odlvk319HNJIkLwgXbndxVj2EFglEaFzS35vX2jmDvfGZF6ZHXT8YWlgJ-y8fx77f9w.mp4?_nc_cat=101&_nc_sid=9ca052&_nc_ht=video-vie1-1.xx.fbcdn.net&_nc_ohc=y5ifgAG_BsMQ7kNvwFWc2EF&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjo5ODQ2NjEyOTc0MDY3NjEsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3OTU5NDM2NzIxMTE1OTkwLCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjIzLCJiaXRyYXRlIjoxMjg4MDc0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&_nc_zt=28&oh=00_Af5Wl8k5h4I65CE10ilZAaLiJN034JegamVSgUDYQ3iSww&oe=6A00305A&bytestart=983&byteend=669241",
+        "method": "GET",
+        "status": 200,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872903,
+          "endTime": 1778278873195,
+          "duration": 292
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/y4/r/-PAXP-deijE.gif",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872903,
+          "endTime": 1778278872906,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/685871829_1587343450058077_6476318489584931069_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=104&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=LA1SEdFg3xkQ7kNvwFz88q9&_nc_oc=AdrPIlOOnOPrhBRdQ2kyroMF3tISOTTnK7f3RND4WIMHgDlBv2pkbXYwCzJIwDhVPk6ti7k9wum2fsqJPWoPyAGa&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af4g7ZgQoY4CDxeHMySX7msYT7nAw97OpupHVzaBhBPcBQ&oe=6A0418DB",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872915,
+          "endTime": 1778278872986,
+          "duration": 71
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-1/273330881_360160869443014_1777294421770473509_n.jpg?stp=cp0_dst-jpg_s50x50_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=kmt6xjFeuzkQ7kNvwFo3Fv2&_nc_oc=AdrjWP7nyBVIqbeCImO0zlcci_6HU_fhvDEXIBbE9Z2U-cYKZpvt1pEVepGCz0LcKIDZcoo8P95k4Y_Lkb0PWWyJ&_nc_zt=24&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af6OT8EVhDk1mlKtNjrsmMyrXiNIt9lxkSjEApRu81HPfA&oe=6A042A7F",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872915,
+          "endTime": 1778278872997,
+          "duration": 82
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685008453_18546268162066063_5554962248997657505_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=T6HneJWcp1YQ7kNvwE9hEV5&_nc_oc=AdrzqBjdIGVc4KaU8avtx0KkLO5bOSJVuyKOSQ5OiAGONp_vp3cCk6rkP0icuXH3uQgjzRk-_Ec-oJYqQ3MJhrob&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af7gZHu3HgGlUBV-4cRG5HcZLxRWAAUIHzZbp-4v-zyfaA&oe=6A041C35",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872916,
+          "endTime": 1778278873005,
+          "duration": 89
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685773573_18546268150066063_5095104714820051790_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=hJ8o-5DZCKMQ7kNvwFUg1PU&_nc_oc=Adp0x5LEmxmeSBnovWcAVQFJcDEwGgXymurro3-1z0JATywAGEEOuWbrNcKc-79sWXQzTHeS7RDmhU7gzOTPZv32&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af4BXKEzCEQus-LoZH3t1JmLMsAs-sBicRy6Gj6xgRaEuA&oe=6A04494F",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872916,
+          "endTime": 1778278873012,
+          "duration": 96
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685786171_18546268141066063_5492262683973312785_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=EOlka5nlXxgQ7kNvwHcUrLa&_nc_oc=Adr8pxUXfRasDCEVMf4aVHcnKmTRlei-8Hul7MPYZ4xv6d4nYJOG3p7Z3eao-ADOBqwxVTHQmFK4I2LB_kq9xfoF&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af6yi4Tvj2MNiF6uupQ80lNLaD4EpO1Ifk5dWXqFaEt4cQ&oe=6A0422FF",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872916,
+          "endTime": 1778278873016,
+          "duration": 100
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-15/657604477_18546268030066063_6748237945484553898_n.jpg?stp=dst-jpegr_p160x160_tt6&_nc_cat=102&ccb=1-7&_nc_sid=e289f2&_nc_ohc=Ds5yptrOqEYQ7kNvwEbZhvk&_nc_oc=AdpTKmpiH6n7yp9lEoRra2smFh3L38H-sepnuHyfT1gFKBQ0ZWmtBa0YBBiEaSehxvMa_MbVGC1QTfrrqFQIcabA&_nc_zt=23&se=-1&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af60jJroDc6twF78XVTL6P7Dv0H4KQsgFhLOsUNu5hFCQQ&oe=6A0432FD",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872916,
+          "endTime": 1778278873018,
+          "duration": 102
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/684602017_1583583953767360_1541996652093073702_n.jpg?stp=cp6_dst-jpg_s370x247_tt6&_nc_cat=103&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=LksfWMwIXM4Q7kNvwEtqSbJ&_nc_oc=AdpFJwpfKn4ZpINS9O4QbpwCNXHkj1wZv8q5MmRaUxADVt53Ej3eRGIv1W7gwdmSSNw1Eew6q2EspdIjQb4oSSQI&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af5cjru5SxTFj7jyBNh09JKUYU8vzxB6nD56HCbY5tlo2Q&oe=6A041EC3",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872916,
+          "endTime": 1778278873028,
+          "duration": 112
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/682660545_1583583957100693_8419660592569086630_n.jpg?stp=cp6_dst-jpg_s370x247_tt6&_nc_cat=110&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=xyFOyZGcIYUQ7kNvwHtMLjr&_nc_oc=AdrlSKY_faWubfRJpUgaxIsMAggEn3OnXoZ4y1SR01DGeHy0ti3uVadjbluFyurAc-wZNL8_2TcL63DhlSQgeWHo&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af7IrxPFkllwxd9N2CanUWN24N0ixGBmwKqmx2t0RzSNIg&oe=6A043A88",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872919,
+          "endTime": 1778278873035,
+          "duration": 116
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/681021036_1581761910616231_8677999866140847244_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=j-hGuDz5q5wQ7kNvwEtWGTa&_nc_oc=Adqd754e7IQdJHhSeKKCuR8RMtVbdDi5xtrAaUBlQ210RZQlvLB-NpGp9GEEcikNZ7bD8CteBnJ3FdNbCHCUTB6q&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af5aHg45yC0O2Sxiep_zoX6E_ZfoNXUnJ-Y9dS1xEFyiew&oe=6A042FFA",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872919,
+          "endTime": 1778278873038,
+          "duration": 119
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/679287741_1581761930616229_6833524996898571628_n.jpg?stp=cp6_dst-jpg_s370x247_tt6&_nc_cat=106&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=ZdhBXba9VEUQ7kNvwGOxO6i&_nc_oc=Adp2kRDjOhvS2rXrteZqT9Ize6SqUDijvgcHfBKr4G2PIPDO7Uws4oqv37DdYjHuFVSevPem4DXrSVdSsvjRt4RC&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af62hqsSN0hBFlD2C6xG4RG3Hg1t05-fIbbaSQm2UES_4w&oe=6A044B67",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872953,
+          "endTime": 1778278873054,
+          "duration": 101
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/683264012_1581761967282892_3490301970081891127_n.jpg?stp=cp6_dst-jpg_s370x247_tt6&_nc_cat=107&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=AkuT4qfxmUQQ7kNvwHsUQZM&_nc_oc=AdrJl2O7RBcjWJdy59sPS-lUC9gDBAGHmjeO9KoEToKfZyNTQQSL2CXGV-IgbwWgJjHXuNTch-t6vONdqwbpJXUr&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af43Tws70pyix-TiGNMTRfJ-ImyNHaKGkxSxjN2nxD90CQ&oe=6A043CCC",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872953,
+          "endTime": 1778278873061,
+          "duration": 108
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/684122641_1581723890620033_1032902665546835312_n.jpg?stp=cp6_dst-jpg_s370x247_tt6&_nc_cat=103&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=SUfoJ7pohdAQ7kNvwGcgKvp&_nc_oc=AdqNjBgqTuGokbfFpgSQwpGpuVrKcAu4zrETkP-Q3tyVwc5owkD4TShstF9FYIIF7I825sDedaaX_jPb6dF-9zLj&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af6iQRs7wwhCj-VlTUvWM_aUWKWXrrC8uKt5m6JFntlaPQ&oe=6A0420B1",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872954,
+          "endTime": 1778278873067,
+          "duration": 113
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/680833580_1581723937286695_2901428255473485866_n.jpg?stp=cp6_dst-jpg_s320x320_tt6&_nc_cat=102&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=4Mr_ykJtvJEQ7kNvwFdeUUU&_nc_oc=AdoMb2HtP-PyclPcNrR_OpNF_JZrQqw1uchZ4hHLAD32b3LzK1ELgbrp0aleTcwXR8071e9A6bL8Nq1GHjH8__Xe&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af5pF-EY1GeC-rslE39C_EEkfoScMcmY71JGbQQsEW9Sfg&oe=6A04191D",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872954,
+          "endTime": 1778278873075,
+          "duration": 121
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/683775969_1581723983953357_198284801011832592_n.jpg?stp=cp6_dst-jpg_s240x240_tt6&_nc_cat=109&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=4y1oLTTyUUQQ7kNvwFiZaAM&_nc_oc=AdpPHF1S3kcrLRvIERa6pN0ycSlBv4YrkxFGP7sMSRbJtb3eNdyxyhkjEW67vyAEoejrKFBx0hgmpi3Sr_Oo9ttC&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af5Zy0CHuaXlb3YeRF5SNhI0WU-MXibe9bkum_OxAuiVag&oe=6A042844",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872954,
+          "endTime": 1778278873077,
+          "duration": 123
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/682006765_1581723940620028_6058750341897946866_n.jpg?stp=cp6_dst-jpg_s240x240_tt6&_nc_cat=105&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=lmmJxSfzIDkQ7kNvwFy70aQ&_nc_oc=AdqJRJ1Wnq9HPd_KxQHdKT0zxt4NgJhDbCVgRVtusCJzyaG-hSd-W_rP8_UHSevGMYI4fNvX1or6gbdp8zfBvHkp&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af4PD3-mMTX4KcFIs0s-M2ZFAuXAEipzkg5SXximwy3Q1g&oe=6A043C6B",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872957,
+          "endTime": 1778278873100,
+          "duration": 143
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/682462250_1581724043953351_1527558273366097662_n.jpg?stp=cp6_dst-jpg_s240x240_tt6&_nc_cat=103&ccb=1-7&_nc_sid=b2bc65&_nc_ohc=Y7ddl6PZAeoQ7kNvwGTwwPB&_nc_oc=AdqT_FjG05DuA2czJkiT6fMpEifEhO9JiLBHnlLw8-BJYFVmajHB9BXHujgS1RjCh-vI0SU3W7XTW2Q5B8g8cXgg&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af5KN-1VGW4U_KRg0svAljQixkRGVkuncg28NrFiLa1JIg&oe=6A041F57",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872958,
+          "endTime": 1778278873104,
+          "duration": 146
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/y-/r/Mgn3V2NlmjU.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872958,
+          "endTime": 1778278872961,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685008453_18546268162066063_5554962248997657505_n.jpg?stp=dst-jpg_p350x350_tt6&_nc_cat=102&ccb=1-7&_nc_sid=b696e2&_nc_ohc=T6HneJWcp1YQ7kNvwE9hEV5&_nc_oc=AdrzqBjdIGVc4KaU8avtx0KkLO5bOSJVuyKOSQ5OiAGONp_vp3cCk6rkP0icuXH3uQgjzRk-_Ec-oJYqQ3MJhrob&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af6NrP0JRT_g4_-rq9b5_tOicO-YVEJnE9msbF8-tLqjFQ&oe=6A041C35",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872962,
+          "endTime": 1778278873108,
+          "duration": 146
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yR/r/j5wMiSKUScF.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872962,
+          "endTime": 1778278872965,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685773573_18546268150066063_5095104714820051790_n.jpg?stp=dst-jpg_p160x160_tt6&_nc_cat=106&ccb=1-7&_nc_sid=b696e2&_nc_ohc=hJ8o-5DZCKMQ7kNvwFUg1PU&_nc_oc=Adp0x5LEmxmeSBnovWcAVQFJcDEwGgXymurro3-1z0JATywAGEEOuWbrNcKc-79sWXQzTHeS7RDmhU7gzOTPZv32&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af7wx5X1gkHzFM6afjrTvWfCsTYzEw0QwFz5xzmNASOwug&oe=6A04494F",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872966,
+          "endTime": 1778278873112,
+          "duration": 146
+        }
+      },
+      {
+        "url": "https://scontent-vie1-1.xx.fbcdn.net/v/t51.82787-10/685786171_18546268141066063_5492262683973312785_n.jpg?stp=dst-jpg_p160x160_tt6&_nc_cat=108&ccb=1-7&_nc_sid=b696e2&_nc_ohc=EOlka5nlXxgQ7kNvwHcUrLa&_nc_oc=Adr8pxUXfRasDCEVMf4aVHcnKmTRlei-8Hul7MPYZ4xv6d4nYJOG3p7Z3eao-ADOBqwxVTHQmFK4I2LB_kq9xfoF&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=2IOw35RH92sBlU9BpVYdCg&_nc_ss=7b289&oh=00_Af6MTxXly6_OfhWIrbvkyHLhut4_7zfRWD9Be0nglz2rOg&oe=6A0422FF",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872966,
+          "endTime": 1778278873116,
+          "duration": 150
+        }
+      },
+      {
+        "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yK/r/4OiFAeQ6JbP.png",
+        "method": "GET",
+        "status": 200,
+        "type": "image",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278872968,
+          "endTime": 1778278872971,
+          "duration": 3
+        }
+      },
+      {
+        "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-RKKN6EPFSY&gtm=45je6562v9135733921za20g&_p=1778278870925&gcd=13l3l3l2l2l1&npa=0&dma_cps=a&dma=1&_eu=ABAIAAQC&are=1&cid=1377326651.1778278297&frm=0&pscdl=noapi&rcb=10&sr=1280x720&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uam=&uamb=0&uap=Windows&uapv=&uaw=0&ul=en-us&_s=1&tag_exp=0~115938465~115938469~118463261~118494634&dl=https%3A%2F%2Fwww.concordkungfu.com%2Fterms.html&dt=Concord%20Kung%20Fu%20Academy%20-%20Train%20Harder%2C%20Live%20Better%20%C2%AE%20-%20Terms%20of%20Use&sid=1778278299&sct=1&seg=1&_tu=wAQ&en=page_view&_ee=1&tfd=5733",
+        "method": "POST",
+        "status": 204,
+        "type": "fetch",
+        "initiator": "other",
+        "timing": {
+          "startTime": 1778278876015,
+          "endTime": 1778278876146,
+          "duration": 131
+        }
+      }
+    ],
+    "third_party_domains": [
+      "www.concordkungfu.com",
+      "www.googletagmanager.com",
+      "fonts.googleapis.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "www.facebook.com",
+      "static.xx.fbcdn.net",
+      "scontent.xx.fbcdn.net",
+      "video-vie1-1.xx.fbcdn.net",
+      "scontent-vie1-1.xx.fbcdn.net",
+      "region1.google-analytics.com"
+    ],
+    "aggregates": {
+      "total_requests": 103,
+      "by_type": {
+        "document": 2,
+        "stylesheet": 22,
+        "script": 35,
+        "image": 30,
+        "font": 1,
+        "xhr": 3,
+        "fetch": 10
+      },
+      "failed": 1,
+      "avg_response_time": 64.5631067961165
+    }
+  },
+  "dom_metrics": {
+    "total_nodes": 275,
+    "max_depth": 12,
+    "script_counts": {
+      "inline": 4,
+      "external": 8,
+      "async": 4,
+      "defer": 0,
+      "blocking": 4
+    },
+    "blocking_resources": [
+      "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6",
+      "https://www.concordkungfu.com/js/jquery.js",
+      "https://www.concordkungfu.com/js/plugins.js",
+      "https://www.concordkungfu.com/js/functions.js",
+      "http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic",
+      "https://www.concordkungfu.com/css/bootstrap.css",
+      "https://www.concordkungfu.com/css/style.css",
+      "https://www.concordkungfu.com/css/dark.css",
+      "https://www.concordkungfu.com/css/font-icons.css",
+      "https://www.concordkungfu.com/css/animate.css",
+      "https://www.concordkungfu.com/css/magnific-popup.css",
+      "https://www.concordkungfu.com/css/responsive.css",
+      "https://www.concordkungfu.com/css/custom.css",
+      "https://www.concordkungfu.com/css/colors.css"
+    ]
+  },
+  "content": {
+    "visible_text": "Home Academy Classes Programs Schedule Contact Us News & Events TERMS AND CONDITIONS Introduction These terms and conditions govern your use of this website; by using this website, you accept these terms and conditions in full.   If you disagree with these terms and conditions or any part of these terms and conditions, you must not use this website. By using this website, you agree that the exclusions and limitations of liability set out in this website disclaimer are reasonable. If you do not think they are reasonable, you must not use this website. You must be at least 18 years of age to use this website.  By using this website and by agreeing to these terms and conditions you warrant and represent that you are at least 18 years of age. This website uses cookies.  By using this website and agreeing to these terms and conditions, you consent to our IRON & SILK, INC.’s use of cookies in accordance with the terms of IRON & SILK, INC.’s privacy policy . Acceptable use You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website; or in any way which is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity. You must not use this website to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software. You must not conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to this website without IRON & SILK, INC.’S express written consent. You must not use this website to transmit or send unsolicited commercial communications. [You must not use this website for any purposes related to marketing without IRON & SILK, INC.’S express written consent. License to use website Unless otherwise stated, IRON & SILK, INC. and/or its licensors own the intellectual property rights in the website and material on the website.  Subject to the license below, all these intellectual property rights are reserved. You may view, download for caching purposes only, and print pages from the website for your own personal, and not commercial, use, subject to the restrictions set out below and elsewhere in these terms and conditions. You must not: republish material from this website (including republication on another website); sell, rent or sub-license material from the website; show any material from the website in public; reproduce, duplicate, copy or otherwise exploit material on this website for a commercial purpose; edit or otherwise modify any material on the website; or redistribute material from this website except for content specifically and expressly made available for redistribution. User content In these terms and conditions, “your user content” means material (including without limitation text, images, audio material, video material and audio-visual material) that you submit to this website, for whatever purpose. You grant to IRON & SILK, INC. a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, adapt, publish, translate and distribute your user content in any existing or future media.  You also grant to IRON & SILK, INC. the right to sub-license these rights, and the right to bring an action for infringement of these rights. Your user content must not be illegal or unlawful, must not infringe any third party’s legal rights, and must not be capable of giving rise to legal action whether against you or IRON & SILK, INC. or a third party (in each case under any applicable law). You must not submit any user content to the website that is or has ever been the subject of any threatened or actual legal proceedings or other similar complaint. IRON & SILK, INC. reserves the right to edit or remove any material submitted to this website, or stored on IRON & SILK, INC.’S servers, or hosted or published upon this website. Notwithstanding IRON & SILK, INC.’S rights under these terms and conditions in relation to user content, IRON & SILK, INC. does not undertake to monitor the submission of such content to, or the publication of such content on, this website. Restricted access Access to certain areas of this website is restricted. IRON & SILK, INC. reserves the right to restrict access to other areas of this website, or indeed this entire website, at IRON & SILK, INC.’S discretion. If IRON & SILK, INC. provides you with a user ID and password to enable you to access restricted areas of this website or other content or services, you must ensure that the user ID and password are kept confidential. IRON & SILK, INC. may disable your user ID and password in IRON & SILK, INC.’S sole discretion without notice or explanation. No warranties This website is provided “as is” without any representations or warranties, express or implied.  IRON & SILK, INC. makes no representations or warranties in relation to this website or the information and materials provided on this website. Without prejudice to the generality of the foregoing paragraph, IRON & SILK, INC. does not warrant that: this website will be constantly available, or available at all; or the information on this website is complete, true, accurate or non-misleading. Nothing on this website constitutes, or is meant to constitute, advice of any kind. Limitations of liability IRON & SILK, INC. will not be liable to you (whether under the law of contact, the law of torts or otherwise) in relation to the contents of, or use of, or otherwise in connection with, this website: for any direct loss; for any indirect, special or consequential loss; or for any business losses, loss of revenue, income, profits or anticipated savings, loss of contracts or business relationships, loss of reputation or goodwill, or loss or corruption of information or data. These limitations of liability apply even if IRON & SILK, INC. has been expressly advised of the potential loss. Other parties [You accept that, as a limited liability entity, IRON & SILK, INC. has an interest in limiting the personal liability of its officers and employees.  You agree that you will not bring any claim personally against IRON & SILK, INC.’S officers or employees in respect of any losses you suffer in connection with the website. Without prejudice to the foregoing paragraph, you agree that the limitations of warranties and liability set out in this website disclaimer will protect IRON & SILK, INC.’S officers, employees, agents, subsidiaries, successors, assigns and sub-contractors as well as IRON & SILK, INC. Unenforceable provisions If any provision of this website disclaimer is, or is found to be, unenforceable under applicable law, that will not affect the enforceability of the other provisions of this website disclaimer. Indemnity You hereby indemnify IRON & SILK, INC. and undertake to keep IRON & SILK, INC. indemnified against any losses, damages, costs, liabilities and expenses (including without limitation legal expenses and any amounts paid by IRON & SILK, INC. to a third party in settlement of a claim or dispute on the advice of IRON & SILK, INC.’S legal advisers) incurred or suffered by IRON & SILK, INC. arising out of any breach by you of any provision of these terms and conditions, or arising out of any claim that you have breached any provision of these terms and conditions. Breaches of these terms and conditions Without prejudice to IRON & SILK, INC.’S other rights under these terms and conditions, if you breach these terms and conditions in any way, IRON & SILK, INC. may take such action as IRON & SILK, INC. deems appropriate to deal with the breach, including suspending your access to the website, prohibiting you from accessing the website, blocking computers using your IP address from accessing the website, contacting your internet service provider to request that they block your access to the website and/or bringing court proceedings against you. Assignment IRON & SILK, INC. may transfer, sub-contract or otherwise deal with IRON & SILK, INC.’S rights and/or obligations under these terms and conditions without notifying you or obtaining your consent. You may not transfer, sub-contract or otherwise deal with your rights and/or obligations under these terms and conditions. Variation IRON & SILK, INC. may revise these terms and conditions from time-to-time.  Revised terms and conditions will apply to the use of this website from the date of the publication of the revised terms and conditions on this website.  Please check this page regularly to ensure you are familiar with the current version. Severability If a provision of these terms and conditions is determined by any court or other competent authority to be unlawful and/or unenforceable, the other provisions will continue in effect.  If any unlawful and/or unenforceable provision would be lawful or enforceable if part of it were deleted, that part will be deemed to be deleted, and the rest of the provision will continue in effect. Law and jurisdiction These terms and conditions will be governed by and construed in accordance California law, and any disputes relating to these terms and conditions will be subject to the exclusive jurisdiction of the courts of California. Entire agreement These terms and conditions and the privacy policies constitute the entire agreement between you and IRON & SILK, INC. in relation to your use of this website, and supersede all previous agreements in respect of your use of this website. You can contact IRON & SILK, INC. by email to info@concordkungfu.com About Us \"Train Harder, Live Better!\"® We teach Choy Li Fut Kung Fu and Yang Tai Chi Chuan. Concord Kung Fu Academy 5442 Ygnacio Valley Road Suite 90 Concord, CA 94521 Phone: (925) 304-6688 Email: Contact Us Here Sitemap Academy Classes Programs Schedule Contact Us News & Events ©2026 Iron & Silk, Inc. Terms of Use / Privacy Policy Webmaster@Concordkungfu.com · (925) 304-6688",
+    "headings": [
+      {
+        "level": "h4",
+        "text": "About Us"
+      },
+      {
+        "level": "h4",
+        "text": "Sitemap"
+      }
+    ],
+    "ctas": [
+      {
+        "text": "Leopards: Beginner 7-12 years old",
+        "type": "link",
+        "href": "https://www.concordkungfu.com/classes.html#leopards-beginner-7-12-yrs"
+      },
+      {
+        "text": "Schedule",
+        "type": "link",
+        "href": "https://www.concordkungfu.com/schedule.html"
+      },
+      {
+        "text": "Contact Us",
+        "type": "link",
+        "href": "https://www.concordkungfu.com/contact_us.html"
+      },
+      {
+        "text": "Contact Us Here",
+        "type": "link",
+        "href": "https://www.concordkungfu.com/contact_us.html"
+      }
+    ],
+    "inferred_intent": {
+      "primary": "programs",
+      "secondary": [
+        "about",
+        "gallery",
+        "schedule"
+      ]
+    },
+    "hierarchy_summary": "      h4: About Us\n      h4: Sitemap"
+  },
+  "images": [
+    {
+      "src": "https://www.concordkungfu.com/images/ckfa-logo.png",
+      "page_url": "https://www.concordkungfu.com/terms.html",
+      "alt": "Home",
+      "surrounding_text": "Home",
+      "inferred_purpose": "logo"
+    },
+    {
+      "src": "https://www.concordkungfu.com/images/ckfa-logo@2x.png",
+      "page_url": "https://www.concordkungfu.com/terms.html",
+      "alt": "Home",
+      "surrounding_text": "Home",
+      "inferred_purpose": "logo"
+    }
+  ],
+  "third_party": {
+    "analytics": [
+      "Google Tag Manager",
+      "Google Analytics",
+      "Meta Pixel"
+    ],
+    "booking": [],
+    "payment": [],
+    "chat": [],
+    "social": [],
+    "other": []
+  }
+}
